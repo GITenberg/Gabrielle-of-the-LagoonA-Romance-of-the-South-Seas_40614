@@ -1,0 +1,31 @@
+_repo: Gabrielle-of-the-LagoonA-Romance-of-the-South-Seas_40614
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40614-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Myddleton, W. H. (William Henry)
+    aliases:
+    - Safroni-Middleton, A. (Arnold)
+    - Safroni, Arnold
+    - Myddleton, William Henry
+    birthdate: 1873
+    deathdate: 1950
+    gutenberg_agent_id: '40728'
+    url: http://www.gutenberg.org/2009/agents/40728
+    wikipedia: https://en.wikipedia.org/wiki/Arnold_Safroni-Middleton
+description: ''
+gutenberg_issued: '2012-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oceania -- Fiction'
+- !lcc 'PR'
+title: 'Gabrielle of the Lagoon: A Romance of the South Seas'
+url: http://www.gutenberg.org/ebooks/40614
